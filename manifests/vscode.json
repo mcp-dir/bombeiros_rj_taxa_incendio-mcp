@@ -1,0 +1,9 @@
+{
+  "_comment": "Cole em .vscode/mcp.json (workspace) OU Command Palette: 'MCP: Add Server' → HTTP → cole https://api.mcp.ai/p_bombeiros_rj_taxa_incendio.",
+  "servers": {
+    "bombeiros_rj_taxa_incendio": {
+      "type": "http",
+      "url": "https://api.mcp.ai/p_bombeiros_rj_taxa_incendio"
+    }
+  }
+}

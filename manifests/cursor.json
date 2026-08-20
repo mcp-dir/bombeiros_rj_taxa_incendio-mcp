@@ -1,0 +1,8 @@
+{
+  "_comment": "Cole em .cursor/mcp.json (workspace) OU ~/.cursor/mcp.json (global). Reinicie o Cursor.",
+  "mcpServers": {
+    "bombeiros_rj_taxa_incendio": {
+      "url": "https://api.mcp.ai/p_bombeiros_rj_taxa_incendio"
+    }
+  }
+}
